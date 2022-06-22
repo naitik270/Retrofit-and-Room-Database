@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PracticleApp</string>
+
+
+    <string name="logout_message">Are you sure want to logout?</string>
+
+</resources>
